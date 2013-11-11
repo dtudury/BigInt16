@@ -1,0 +1,24 @@
+{
+  "name": "bigint16",
+  "version": "0.1.0",
+  "description": "simple fast readable js library for big integers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtudury/BigInt16.git"
+  },
+  "keywords": [
+    "bigint",
+    "integer",
+    "diffie",
+    "hellman"
+  ],
+  "author": "david tudury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtudury/BigInt16/issues"
+  }
+}
