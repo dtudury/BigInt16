@@ -1,6 +1,6 @@
 {
   "name": "bigint16",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "simple fast readable js library for big integers",
   "main": "index.js",
   "scripts": {

@@ -1,4 +1,4 @@
 BigInt16
 ========
 
-simple fast readable js library for big integers
+simple ~~fast~~ (omg, this is so slow; need to do some research...) readable js library for big integers
